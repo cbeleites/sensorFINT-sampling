@@ -1,7 +1,7 @@
 ---
 title: "Sampling"
 journal: "TrAC Trends in Analytical Chemistry"
-date: "`r Sys.Date()`"
+date: 2024-XX-YY
 classoption: 3p, numbers, sort, compress, square, twocolumn
 linenumbers: true
 numbersections: true
