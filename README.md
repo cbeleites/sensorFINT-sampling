@@ -1,3 +1,12 @@
+---
+title: "Sampling"
+journal: "TrAC Trends in Analytical Chemistry"
+date: "`r Sys.Date()`"
+classoption: 3p, numbers, sort, compress, square, twocolumn
+linenumbers: true
+numbersections: true
+---
+
 # sensorFINT-sampling
 
 
