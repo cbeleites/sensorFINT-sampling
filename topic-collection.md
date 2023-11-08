@@ -4,7 +4,7 @@
   - calibration samples to span large range => need much variance, no blending
   - application question (e.g. theobromine in Peruvian cocoa) needs representative for e.g. fermentation box => physical averaging (milling & mixing) good
   - validation -> validation paper?
- 
+
    
 - Which samples -> DoE
   - nested designs, variance components
@@ -81,4 +81,36 @@
   - Many samples measured with NDSS, few can go to reference analysis
     - how to choose
     - how to split for training / validation
+
+
+jasenka: 
+- training validation -> micro instruments -> lab vs field -> accuracy differences, less data
+- in situ vs lab -> non destructive vs. preparation
+
+vincent:
+- sampling step at laboratory
+Ok, so I will write my suggestion.I think the paper has to demonstrate that NDSS are an elegant solution totackle sampling issue
+To do that, we have to explain what sampling is and how NDSS are more suitable to take into account the heterogeneity of the samples
+For me, "sampling" is different than "sample selection"
+Sampling is the procedure to pick up sample from a batch
+ample selection is the choose of sample to calib ou valid a method
+[12:08] Vincent BAETEN (Gast)
+    This is from our side
+[12:08] Vincent BAETEN (Gast)
+    In the paper we have to define clearly the aim of the paper
+(1 „Gefällt mir“-Angaben)
+
+beatriz
+- field: how to sample a plot/field representatively
+- harvest: how to sample
+
+tassos:
+- teaching module on food analysis -> sampling for chemistry
+- 20 kg mozzarella for pizza -> bring into lab -> ASK students to do sampling -> complex problem
+- need high level structure
+
+
+
+
+
 
