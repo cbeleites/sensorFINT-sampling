@@ -105,7 +105,9 @@ beatriz
 - harvest: how to sample
 
 tassos:
-- teaching module on food analysis -> sampling for chemistry
+- decide(?) do we tackle industry/government scale sampling or research studies?
+  Beatriz says sensorFINT wants industry. Claudia says, industry does small scale studies as well. 
+-  teaching module on food analysis -> sampling for chemistry
 - 20 kg mozzarella for pizza -> bring into lab -> ASK students to do sampling -> complex problem
 - need high level structure
 
