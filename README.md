@@ -1,8 +1,15 @@
 ---
+documentclass: elsarticle
 title: "Sampling"
 journal: "TrAC Trends in Analytical Chemistry"
 date: 2024-XX-YY
-classoption: 3p, numbers, sort, compress, square, twocolumn
+classoption: 
+    - 3p 
+    - numbers 
+    - sort 
+    - compress 
+    - square 
+    - twocolumn
 linenumbers: true
 numbersections: true
 ---
